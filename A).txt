@@ -1,0 +1,99 @@
+A) 
+
+Deoxyribonucleic acid, DNA, kuvataan  Guanine ('G'), Cytosine ('C'), Adenine ('A'), Thymine ('T') kirjaimilla, esim. GGCATTCAG tai GTCCA. 
+
+Ribonucleic acid, RNA, kuvataan Guanine ('G'), Cytosine ('C'), Adenine ('A'), Uracil ('U') kirjaimilla, esim. GGCAUUCAG tai GUCCA. RNA ei sisällä Thymineä vaan se on korvattu Uracilillä. 
+
+Tee funktio, joka muuntaa annetun DNA:n RNA:ksi. 
+
+Annettu parametri on pituudeltaan vaihteleva, se voi olla myös tyhjä. Sinun ei tarvitse tarkastaa funktion saamaa parametria, se on aina validi. 
+
+ 
+
+B) 
+
+Tee ohjelma, joka kysyy käyttäjältä sanan. Sitten ohjelma muuttaa sanassa kaikki a-kirjaimet b-kirjaimiksi ja tulostaa näin muodostetun sanan.  
+
+  
+
+C) 
+
+Tee funktio, joka muuntaa annetun sanan kaikki e-kirjaimet f-kirjaimiksi ja palauttaa näin muodostetun sanan. 
+
+ 
+
+D) 
+
+Tee ohjelma, joka kyselee käyttäjältä kokonaislukuja 1-9 väliltä ja tallentaa ne listaan. Nolla lopettaa käyttäjän syötteen, eikä sitä tule tallentaa listaan.  
+
+Sitten ohjelma lisää listan alkion arvoon ko. alkion indeksin listassa. Sitten ohjelma tulostaa listan.  
+
+Lista voi olla tyhjä eli käyttäjä ei syötä muuta kuin 0:n.  
+
+Käyttäjän syöte on aina jokin numero, ohjelman ei tarvitse tarkastaa syötteen kelpoisuutta. 
+
+ 
+
+E) 
+
+Tee ohjelma, joka kyselee käyttäjältä kokonaislukuja 1-9 väliltä ja tallentaa ne listaan. Nolla lopettaa käyttäjän syötteen, eikä sitä tule tallentaa listaan.  
+
+Sitten ohjelma lisää listan alkion arvoon ko. alkion indeksin listassa. Kuitenkin, jos uudeksi arvoksi tulee kaksinumeroinen luku, niin vain viimeinen (ykköset) luku tallennetaan. Sitten ohjelma tulostaa listan.  
+
+Lista voi olla tyhjä eli käyttäjä ei syötä muuta kuin 0:n.  
+
+Käyttäjän syöte on aina jokin numero, ohjelman ei tarvitse tarkastaa syötteen kelpoisuutta. 
+
+ 
+
+F) 
+
+Tee funktio arvosana, joka laskee opiskelijan lopullisen arvosanan kahdesta arvosta: kokeen pistemäärästä ja suoritettujen harjoitustehtävien lukumäärästä.  
+
+Funktio saa 2 arvoa parametrina: kokeen pistemäärä 0–100 ja suoritetut harjoitustehtävät 0:sta alkaen.  
+
+Funktio palauttaa yhden arvon: lopullinen arvosana. Arvosana määräytyy seuraavasti:  
+
+100, jos kokeen pistemäärä on suurempi kuin 90 tai jos suoritettujen harjoitustehtävien määrä en suurempi kuin 10.  
+
+90, jos kokeen pistemäärä on suurempi kuin 75 ja suoritettujen harjoitustehtävien määrä on vähintään 5.  
+
+75, jos kokeen pistemäärä on suurempi kuin 50 ja suoritettujen harjoitustehtävien määrä on vähintään 2.  
+
+Muutoin arvosana on 0. 
+
+ 
+
+G) 
+
+Tee ohjelma, joka kysyy käyttäjältä pistemäärän. Sitten ohjelma tulostaa pistemäärää vastaavan arvosanan. Arvosanan määräytyminen:   
+
+0-50 -> 0  
+
+51-70 -> 1  
+
+71-90 -> 2  
+
+91-100 -> 3 
+
+ 
+
+H) 
+
+Tee ohjelma, joka kyselee käyttäjältä pistemääriä. Sitten ohjelma tulostaa pistemäärien keskiarvon. 
+
+ 
+
+I) 
+
+Tee ohjelma, joka kyselee käyttäjältä pistemääriä. Sitten ohjelma tulostaa pisteiden keskiarvoa vastaavan arvosanan. Arvosana määräytyy kuten aiemmassa tehtävässä. 
+
+ 
+
+J) 
+
+Tee ohjelma, joka kyselee käyttäjältä sanoja ja tallentaa ne listaan. Lopuksi ohjelma tulostaa listan pisimmän, lyhyimmän, ensimmäisen, viimeisen ja keskimmäisen (jos tasajako, niin näistä se eka) sanan. 
+
+ 
+
+ 
